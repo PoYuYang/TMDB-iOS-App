@@ -21,12 +21,28 @@ There is a carousel on the top and two horizontal scroll views with 20 cards.
 
 
 
-## Horizontal ScrollView with contextmenu
+## Horizontal ScrollView with Contextmenu
 
 Movie and TV Shows show in the horizontalscroll form.
 If a card is being add to watchlis, the bookmark will be filled, else it will be empty.
-<p align="center"><img src="img/IMG_2809.PNG" alt="Carousel" width="300" />
-<img src="img/IMG_2809.PNG" alt="Carousel" width="300" /></p>
+<p align="center"><img src="img/IMG_2809.PNG" alt="carousel" width="300" />
+<img src="img/IMG_2809.PNG" alt="scroll" width="300" /></p>
+
+There are a share to facebook button and share to twitter button, after clicking those button, it will redirect user to their social media
+
+<p align="center"><img src="img/IMG_2813.PNG" alt="facebook" width="300" />
+<img src="img/IMG_2814.PNG" alt="twitter" width="300" /></p>
+
+
+## Watchlist
+
+User can add any show to their watchlist.
+Also they can remove it by long press the card or even drap and drop for the card for their preference
+<p align="center"><img src="img/IMG_2810.PNG" alt="Watchlist" width="300" />
+<img src="img/IMG_2811.PNG" alt="Watchlist" width="300" />
+<img src="img/IMG_2812.PNG" alt="Watchlist" width="300" /></p>
+
+
 
 ## Search
 
@@ -35,24 +51,15 @@ A search bar for quick access to any type of data.
 
 ## Detail Section 
 
-Detail for any shows on the website including Casts, Reviews, recommend show and similar show.
-<p align="center"><img src="https://media.giphy.com/media/akskUAayxGIxipJNg2/giphy.gif" alt="Detail" width="700" /></p>
-
-## Add to list function 
-
-User can add any show to their list.
-<p align="center"><img src="https://media.giphy.com/media/O4EFu6mD3p8zRLGdkw/giphy.gif" alt="SearchResult" width="700" /></p>
-
-<p align="center"><img src="img/WatchList.png" alt="SearchResult" width="700" /></p>
+Detail for any shows on the website including Casts, Reviews and recommend show.
+<p align="center"><img src="img/IMG_2819.PNG" alt="Detail" width="300" />
+<img src="img/IMG_2820.PNG" alt="Detail" width="300" />
+<img src="img/IMG_2821.PNG" alt="Detail" width="300" /></p>
 
 
-## Show Cast info
+## Show Review Details
 
 After pressing card of cast, show the details.
-<p align="center"><img src="https://media.giphy.com/media/G9fDAllaG6ekhV0FQ2/giphy.gif" alt="Cast detail" width="700" /></p>
+<p align="center"><img src="img/IMG_2822.PNG" alt="Detail" width="300" /></p>
 
-## Continue Watching Section
-
-All the views will be stored and show at the homepage.
-<p align="center"><img src="img/ContinueWatch.png" alt="SearchResult" width="700" /></p>
 
