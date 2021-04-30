@@ -26,7 +26,7 @@ There is a carousel on the top and two horizontal scroll views with 20 cards.
 Movie and TV Shows show in the horizontalscroll form.
 If a card is being add to watchlis, the bookmark will be filled, else it will be empty.
 <p align="center"><img src="img/IMG_2809.PNG" alt="carousel" width="300" />
-<img src="img/IMG_2809.PNG" alt="scroll" width="300" /></p>
+<img src="img/IMG_2808.PNG" alt="scroll" width="300" /></p>
 
 There are a share to facebook button and share to twitter button, after clicking those button, it will redirect user to their social media
 
