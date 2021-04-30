@@ -7,20 +7,31 @@ In this project, I built a TMDB full stack website for user to not only find the
 
 ## HomePage
 
-The Home page of this website.
+The Home page of this app with a movie section and a tv show section.
 
-<p align="center"><img src="https://media.giphy.com/media/GHeS1CY2OawFIf4hKI/giphy.gif" alt="HomePage" width="700" /></p>
+<p align="center"><img src="img/IMG_2803.PNG" alt="HomePage" width="300" />
+  <img src="img/IMG_2816.PNG" alt="HomePage" width="300" />
+</p>
+
+There is a carousel on the top and two horizontal scroll views with 20 cards.
+
+<p align="center"><img src="img/IMG_2815.PNG" alt="HomePage" width="300" />
+  <img src="img/IMG_2817.PNG" alt="HomePage" width="300" />
+</p>
 
 
-## Carousel for Movie and TV Show
 
-Movie and TV Shows show in the carousel form.
-<p align="center"><img src="https://media.giphy.com/media/JE3vrpbc9s1IFEELjE/giphy.gif" alt="Carousel" width="700" /></p>
+## Horizontal ScrollView with contextmenu
+
+Movie and TV Shows show in the horizontalscroll form.
+If a card is being add to watchlis, the bookmark will be filled, else it will be empty.
+<p align="center"><img src="img/IMG_2809.PNG" alt="Carousel" width="300" />
+<img src="img/IMG_2809.PNG" alt="Carousel" width="300" /></p>
 
 ## Search
 
-Auto Complete search function .
-<p align="center"><img src="img/Search.png" alt="Search" width="700" /></p>
+A search bar for quick access to any type of data.
+<p align="center"><img src="img/IMG_2804.PNG" alt="Search" width="300" /></p>
 
 ## Detail Section 
 
