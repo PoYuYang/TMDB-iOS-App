@@ -3,7 +3,7 @@
 
 ##  Overview
 
-In this project, I built a TMDB full stack website for user to not only find their favorite movies but also share the movies to their friends. User can get all the information for the movies and even watch the trailer here.
+In this project, I built a TMDB iOS app for user to not only find their favorite movies but also share the movies to their friends. User can get all the information for the movies and even watch the trailer here with their iPhone or even iPad.
 
 ## HomePage
 
@@ -52,6 +52,7 @@ A search bar for quick access to any type of data.
 ## Detail Section 
 
 Detail for any shows on the website including Casts, Reviews and recommend show.
+The button on the toolbar has the same function as the homepage.
 <p align="center"><img src="img/IMG_2819.PNG" alt="Detail" width="300" />
 <img src="img/IMG_2820.PNG" alt="Detail" width="300" />
 <img src="img/IMG_2821.PNG" alt="Detail" width="300" /></p>
@@ -59,7 +60,7 @@ Detail for any shows on the website including Casts, Reviews and recommend show.
 
 ## Show Review Details
 
-After pressing card of cast, show the details.
+After pressing card of review, show the details.
 <p align="center"><img src="img/IMG_2822.PNG" alt="Detail" width="300" /></p>
 
 
