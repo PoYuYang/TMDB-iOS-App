@@ -7,9 +7,9 @@ In this project, I built a TMDB full stack website for user to not only find the
 
 ## HomePage
 
-The Home page of this website.
+The Home page of this app.
 
-<p align="center"><img src="https://media.giphy.com/media/GHeS1CY2OawFIf4hKI/giphy.gif" alt="HomePage" width="700" /></p>
+<p align="center"><img src="img/IMG_2803.png" alt="HomePage" width="300" /></p>
 
 
 ## Carousel for Movie and TV Show
