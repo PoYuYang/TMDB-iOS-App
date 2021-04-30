@@ -20,8 +20,8 @@ class HomeViewModel: ObservableObject {
     @Published var TrendingTv = [Carousel]()
     
     
-    var baseURL = "https://hw-8-backend.wl.r.appspot.com/apis/"
-//    var baseURL = " http://localhost:8080/"
+
+    var baseURL = " http://localhost:8080/"
     
     
     

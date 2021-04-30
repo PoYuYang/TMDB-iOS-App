@@ -15,8 +15,8 @@ class SearchViewModel:ObservableObject{
     @Published var results = [SearchRes]()
     @Published var NoResult = false
 
-    var baseURL = "https://hw-8-backend.wl.r.appspot.com/apis/"
-    //    var baseURL = " http://127.0.0.1:8080/"
+
+    var baseURL = " http://127.0.0.1:8080/"
 
 
     func getSearchResult(name:String) {

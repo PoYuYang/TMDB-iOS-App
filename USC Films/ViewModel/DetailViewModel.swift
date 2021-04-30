@@ -20,8 +20,8 @@ class DetailViewModel:ObservableObject{
     @Published var genres = String()
     @Published var poster_path = String()
     
-    var baseURL = "https://hw-8-backend.wl.r.appspot.com/apis/"
-//    var baseURL = " http://127.0.0.1:8080/"
+
+    var baseURL = " http://127.0.0.1:8080/"
     
 
     func getMovieDetail(id:String) {
