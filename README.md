@@ -37,7 +37,7 @@ There are a share to facebook button and share to twitter button, after clicking
 ## Watchlist
 
 User can add any show to their watchlist.
-Also they can remove it by long press the card or even drap and drop for the card for their preference
+Also they can remove it by long press the card or even drap and drop the card for their preference order
 <p align="center"><img src="img/IMG_2810.PNG" alt="Watchlist" width="300" />
 <img src="img/IMG_2811.PNG" alt="Watchlist" width="300" />
 <img src="img/IMG_2812.PNG" alt="Watchlist" width="300" /></p>
@@ -46,12 +46,12 @@ Also they can remove it by long press the card or even drap and drop for the car
 
 ## Search
 
-A search bar for quick access to any type of data.
+A search bar for quick access to any type of media.
 <p align="center"><img src="img/IMG_2804.PNG" alt="Search" width="300" /></p>
 
 ## Detail Section 
 
-Detail for any shows on the website including Casts, Reviews and recommend show.
+Detail for any shows on the website including casts, reviews and recommend show.
 The button on the toolbar has the same function as the homepage.
 <p align="center"><img src="img/IMG_2819.PNG" alt="Detail" width="300" />
 <img src="img/IMG_2820.PNG" alt="Detail" width="300" />
@@ -60,7 +60,7 @@ The button on the toolbar has the same function as the homepage.
 
 ## Show Review Details
 
-After pressing card of review, show the details.
+After pressing card of review, it will show more content.
 <p align="center"><img src="img/IMG_2822.PNG" alt="Detail" width="300" /></p>
 
 
