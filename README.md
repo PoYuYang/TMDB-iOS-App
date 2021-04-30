@@ -53,6 +53,7 @@ A search bar for quick access to any type of media.
 
 Detail for any shows on the website including casts, reviews and recommend show.
 The button on the toolbar has the same function as the homepage.
+The recommend part is also a clickable scrollview 
 <p align="center"><img src="img/IMG_2819.PNG" alt="Detail" width="300" />
 <img src="img/IMG_2820.PNG" alt="Detail" width="300" />
 <img src="img/IMG_2821.PNG" alt="Detail" width="300" /></p>
