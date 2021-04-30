@@ -7,12 +7,16 @@ In this project, I built a TMDB full stack website for user to not only find the
 
 ## HomePage
 
-The Home page of this app.
-There is a carousel on the top and two horizontal scroll views with 20 cards.
+The Home page of this app with a movie section and a tv show section.
+
 <p align="center"><img src="img/IMG_2803.PNG" alt="HomePage" width="300" />
   <img src="img/IMG_2816.PNG" alt="HomePage" width="300" />
 </p>
+<p align="center"><img src="img/IMG_2815.PNG" alt="HomePage" width="300" />
+  <img src="img/IMG_2817.PNG" alt="HomePage" width="300" />
+</p>
 
+There is a carousel on the top and two horizontal scroll views with 20 cards.
 
 ## Carousel for Movie and TV Show
 
